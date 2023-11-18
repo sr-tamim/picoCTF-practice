@@ -1,4 +1,4 @@
-# Practive repo for PicoCTF
+# Practice repo for PicoCTF
 [Visit PicoCTF website](https://picoctf.org)
 
 ## Table of contents
