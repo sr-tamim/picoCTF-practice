@@ -4,6 +4,10 @@
 ## Table of contents
 1. Web Exploitation
    - [Insp3ct0r](Insp3ct0r.md)
+   - [Get aHEAD](Get_aHEAD.md)
+
+2. General Skills
+   - [strings it](strings_it.md)
 
 
 Regards
