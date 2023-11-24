@@ -1,10 +1,13 @@
 # Practice repo for PicoCTF
 [Visit PicoCTF website](https://picoctf.org)
 
-## Table of contents
+### Table of contents
 1. Web Exploitation
    - [Insp3ct0r](Insp3ct0r.md)
    - [Get aHEAD](Get_aHEAD.md)
+   - [Inspect HTML](Inspect_HTML.md)
+   - [Includes](Includes.md)
+   - [Search source](Search_source.md)
    - [Who are you?](Who_are_you.md)
 
 2. General Skills
