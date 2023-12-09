@@ -2,18 +2,21 @@
 [Visit PicoCTF website](https://picoctf.org)
 
 ### Table of contents
-1. Web Exploitation
-   - [Insp3ct0r](Insp3ct0r.md)
-   - [Get aHEAD](Get_aHEAD.md)
-   - [Inspect HTML](Inspect_HTML.md)
-   - [Includes](Includes.md)
-   - [Search source](Search_source.md)
-   - [Who are you?](Who_are_you.md)
+- Web Exploitation
+   1. [Insp3ct0r](Insp3ct0r.md)
+   2. [Get aHEAD](Get_aHEAD.md)
+   3. [Inspect HTML](Inspect_HTML.md)
+   4. [Includes](Includes.md)
+   5. [Search source](Search_source.md)
+   6. [Who are you?](Who_are_you.md)
+   7. [Logon](Logon.md)
+   8. [Dont-use-client-side](Dont-use-client-side.md)
+   9. [Login](Login.md)
 
-2. General Skills
-   - [strings it](strings_it.md)
-   - [Wave a flag](Wave_a_flag.md)
-   - [Magikarp Ground Mission](Magikarp_Ground_Mission.md)
+- General Skills
+   1. [strings it](strings_it.md)
+   2. [Wave a flag](Wave_a_flag.md)
+   3. [Magikarp Ground Mission](Magikarp_Ground_Mission.md)
 
 
 Regards
